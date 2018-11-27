@@ -117,14 +117,8 @@
 		<p>
 			<em><strong>관리자</strong></em>
 		</p>
-		<ul>
-			<li>	
+		<img src="https://user-images.githubusercontent.com/35192352/49067796-6633ee00-f268-11e8-8f77-965e63fbba79.png" width="100"></img>			
 		<img src="https://user-images.githubusercontent.com/35192352/49067796-6633ee00-f268-11e8-8f77-965e63fbba79.png" width="100"></img>
-			</li>
-						<li>	
-		<img src="https://user-images.githubusercontent.com/35192352/49067796-6633ee00-f268-11e8-8f77-965e63fbba79.png" width="100"></img>
-			</li>
-	</ul>
 	</li>
 </ul>
 
